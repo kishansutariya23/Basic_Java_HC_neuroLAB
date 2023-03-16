@@ -1,7 +1,7 @@
 ## 🗂️ This repository contain the basic of JAVA i learnt 
 --------------------
 
-[NOTE:-] I wanted to learn just Basic of Java and keeping that in mind i learn below concepts from the course offered by [Hitesh Choudhary]() through [iNeuron]() Platform.
+[NOTE:-] "**I wanted to learn just Basic of Java**" and keeping that in mind i learn below concepts from the course offered by [Hitesh Choudhary]() through [iNeuron]() Platform. But course contains some advance concepts also like OOPS, LinkedList, Sorting Algo, Project with GUI Application... which i haven't learnt yet.
 
 
 
