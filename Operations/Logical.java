@@ -1,9 +1,9 @@
-// package Conditional Statements;
+package Operations;
 
 public class Logical {
      public static void main(String args[]){
 
-    boolean fbLogin = true;
+        boolean fbLogin = true;
         boolean googleLogin = false;
         boolean email = false;
         //boolean hasPaid = false;
