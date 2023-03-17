@@ -15,6 +15,9 @@
     - ,
 
 
+-------------------------
+below is the code extension used to run the java code in lab server provided by iNeuron
+- [vscjava.vscode-java-pack](https://open-vsx.org/extension/vscjava/vscode-java-pack)
 
 -------------------------
 ## 🖇️ Resources

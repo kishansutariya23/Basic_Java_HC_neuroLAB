@@ -6,6 +6,7 @@ public class UserInput {
     int myFirstNumber;
     int mySecondNumber;
     int result;
+// below in will not give you any error
 
     Scanner in = new Scanner(System.in);
     System.out.println("Enter number 1: ");
